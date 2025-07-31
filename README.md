@@ -41,7 +41,7 @@ Plant Disease Classification/
 
 Clone the repository:
 
-git clone https://github.com/Ayush-17/Plant-Disease-Classification.git
+git clone https://github.com/Abhishekkk-007/Plant-Disease-Classification.git
 cd Plant-Disease-Classification
 
 Create a virtual environment (optional but recommended):
@@ -78,4 +78,6 @@ Feel free to contribute by submitting a PR or reporting issues!
 📜 License
 
 This project is licensed under the MIT License.
+
+
 
